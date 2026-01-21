@@ -352,22 +352,9 @@ Purpose: Transition to problem solving.
 
 ## Final Outcome After This Roadmap
 
-You will be:
-
 * Comfortable writing **clean Java**
 * Confident in **Java interviews**
 * Fully ready to **restart DSA properly**
 
 ---
 
-### Next Step (Tell me once you’re ready)
-
-* We will **start Phase 1**
-* Each phase will follow this cycle:
-
-  1. Concept explanation (simple)
-  2. Interview notes
-  3. DSA relevance
-  4. Exercises (progressive)
-
-If you want any **phase split differently** or want **extra focus on any area**, say it now before we begin.
