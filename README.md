@@ -1,6 +1,3 @@
-# javaRevision
----
-
 # Java Revision Roadmap (Basic → Advanced)
 
 **Goal:**
