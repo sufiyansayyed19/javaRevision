@@ -1,7 +1,4 @@
 # javaRevision
-Perfect. We’ll first **design the full roadmap only**, in a **clear, phased, interview + DSA–oriented structure**.
-No exercises yet — just **what we will cover and why**, so you can approve or modify it before we start Phase 1.
-
 ---
 
 # Java Revision Roadmap (Basic → Advanced)
