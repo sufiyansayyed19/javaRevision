@@ -8,6 +8,8 @@ class Input {
     //     int price = sc.nextInt();
     //     System.out.println("The price is : " + price);
     // }
+    
+    //Multiple inputs
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
