@@ -8,6 +8,37 @@
 
 ---
 
+## Project Overview
+
+This repository is a **phase-wise Java revision roadmap** with notebooks and practice code.
+
+### Quick Start
+
+* Roadmap notebook: [j_roadmap.ipynb](j_roadmap.ipynb)
+* Phase notebooks are organized under their respective folders, for example [phase_1/j_ph1.ipynb](phase_1/j_ph1.ipynb)
+
+### Repository Structure (All Directories)
+
+| Phase | Focus | Contents |
+| --- | --- | --- |
+| Phase 0 | Setup & mindset | [phase_0/j_ph0.ipynb](phase_0/j_ph0.ipynb) |
+| Phase 1 | Java fundamentals | [phase_1/Excercies.java](phase_1/Excercies.java), [phase_1/Hello.java](phase_1/Hello.java), [phase_1/Input.java](phase_1/Input.java), [phase_1/j_ph1.ipynb](phase_1/j_ph1.ipynb) |
+| Phase 2 | Control flow | [phase_2/j_ph2.ipynb](phase_2/j_ph2.ipynb) |
+| Phase 3 | Functions & recursion | [phase_3/j_ph3.ipynb](phase_3/j_ph3.ipynb) |
+| Phase 4 | Arrays | [phase_4/j_ph4.ipynb](phase_4/j_ph4.ipynb) |
+| Phase 5 | Strings | [phase_5/j_ph5.ipynb](phase_5/j_ph5.ipynb) |
+| Phase 6 | OOP deep dive | [phase_6/j_ph6_1.ipynb](phase_6/j_ph6_1.ipynb), [phase_6/j_ph6_2.ipynb](phase_6/j_ph6_2.ipynb), [phase_6/j_ph6_3.ipynb](phase_6/j_ph6_3.ipynb), [phase_6/j_ph6_4.ipynb](phase_6/j_ph6_4.ipynb), [phase_6/j_ph6_5.ipynb](phase_6/j_ph6_5.ipynb), [phase_6/j_ph6_6.ipynb](phase_6/j_ph6_6.ipynb), [phase_6/j_ph6_7.ipynb](phase_6/j_ph6_7.ipynb), [phase_6/j_ph6_8.ipynb](phase_6/j_ph6_8.ipynb), [phase_6/j_ph6_9.ipynb](phase_6/j_ph6_9.ipynb) |
+| Phase 7 | Collections | [phase_7/j_ph7.ipynb](phase_7/j_ph7.ipynb) |
+| Phase 7.1 | Collections practice | [phase_7.1/j_ph7.1_0.ipynb](phase_7.1/j_ph7.1_0.ipynb), [phase_7.1/j_ph7.1_1.ipynb](phase_7.1/j_ph7.1_1.ipynb), [phase_7.1/j_ph7.1_2.ipynb](phase_7.1/j_ph7.1_2.ipynb), [phase_7.1/j_ph7.1_3.ipynb](phase_7.1/j_ph7.1_3.ipynb) |
+| Phase 8 | Advanced topics | [phase_8/j_ph8_0.ipynb](phase_8/j_ph8_0.ipynb), [phase_8/j_ph8_1.ipynb](phase_8/j_ph8_1.ipynb), [phase_8/j_ph8_1a.ipynb](phase_8/j_ph8_1a.ipynb), [phase_8/j_ph8_1b.ipynb](phase_8/j_ph8_1b.ipynb), [phase_8/j_ph8_1c.ipynb](phase_8/j_ph8_1c.ipynb), [phase_8/j_ph8_2.ipynb](phase_8/j_ph8_2.ipynb), [phase_8/j_ph8_3.ipynb](phase_8/j_ph8_3.ipynb), [phase_8/j_ph8_4.ipynb](phase_8/j_ph8_4.ipynb), [phase_8/j_ph8_5.ipynb](phase_8/j_ph8_5.ipynb), [phase_8/j_ph8_6.ipynb](phase_8/j_ph8_6.ipynb), [phase_8/j_ph8_7.ipynb](phase_8/j_ph8_7.ipynb), [phase_8/j_ph8_7a .ipynb](phase_8/j_ph8_7a%20.ipynb), [phase_8/j_ph8_7b.ipynb](phase_8/j_ph8_7b.ipynb), [phase_8/j_ph8_7c.ipynb](phase_8/j_ph8_7c.ipynb), [phase_8/j_ph8_7d.ipynb](phase_8/j_ph8_7d.ipynb), [phase_8/j_ph8_7e.ipynb](phase_8/j_ph8_7e.ipynb) |
+| Phase 9 | Advanced practice | [phase_9/j_ph9.ipynb](phase_9/j_ph9.ipynb) |
+| Phase 10 | Advanced practice | [phase_10/j_ph10_0.ipynb](phase_10/j_ph10_0.ipynb), [phase_10/j_ph10_1.ipynb](phase_10/j_ph10_1.ipynb), [phase_10/j_ph10_2.ipynb](phase_10/j_ph10_2.ipynb), [phase_10/j_ph10_3.ipynb](phase_10/j_ph10_3.ipynb), [phase_10/j_ph10_4.ipynb](phase_10/j_ph10_4.ipynb) |
+| Phase 11 | Advanced practice | [phase_11/j_ph11_0.ipynb](phase_11/j_ph11_0.ipynb) |
+| Phase 12 | Advanced practice | [phase_12/j_ph12.ipynb](phase_12/j_ph12.ipynb) |
+| Phase 13 | Advanced practice | [phase_13/j_ph13.ipynb](phase_13/j_ph13.ipynb) |
+
+---
+
 ## PHASE 0 – Mindset & Setup (Quick but Important)
 
 Purpose: Reset Java thinking and align it with interviews + DSA.
