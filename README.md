@@ -1,6 +1,6 @@
 # Java Revision Roadmap (Basic → Advanced)
 
-**Goal:**
+**Goal**
 
 * Strong **core Java fundamentals**
 * Interview-ready **conceptual clarity**
@@ -8,36 +8,190 @@
 
 ---
 
-## Project Overview
+## What This Repository Contains
 
-This repository is a **phase-wise Java revision roadmap** with notebooks and practice code.
+This repository is a **phase-wise Java revision roadmap** with:
 
-### Quick Start
+* **Notebook-based learning modules** for each phase
+* **Hands-on Java practice files** in Phase 1
+* A single master roadmap notebook
 
-* Roadmap notebook: [j_roadmap.ipynb](j_roadmap.ipynb)
-* Phase notebooks are organized under their respective folders, for example [phase_1/j_ph1.ipynb](phase_1/j_ph1.ipynb)
-
-### Repository Structure (All Directories)
-
-| Phase | Focus | Contents |
-| --- | --- | --- |
-| Phase 0 | Setup & mindset | [phase_0/j_ph0.ipynb](phase_0/j_ph0.ipynb) |
-| Phase 1 | Java fundamentals | [phase_1/Excercies.java](phase_1/Excercies.java), [phase_1/Hello.java](phase_1/Hello.java), [phase_1/Input.java](phase_1/Input.java), [phase_1/j_ph1.ipynb](phase_1/j_ph1.ipynb) |
-| Phase 2 | Control flow | [phase_2/j_ph2.ipynb](phase_2/j_ph2.ipynb) |
-| Phase 3 | Functions & recursion | [phase_3/j_ph3.ipynb](phase_3/j_ph3.ipynb) |
-| Phase 4 | Arrays | [phase_4/j_ph4.ipynb](phase_4/j_ph4.ipynb) |
-| Phase 5 | Strings | [phase_5/j_ph5.ipynb](phase_5/j_ph5.ipynb) |
-| Phase 6 | OOP deep dive | [phase_6/j_ph6_1.ipynb](phase_6/j_ph6_1.ipynb), [phase_6/j_ph6_2.ipynb](phase_6/j_ph6_2.ipynb), [phase_6/j_ph6_3.ipynb](phase_6/j_ph6_3.ipynb), [phase_6/j_ph6_4.ipynb](phase_6/j_ph6_4.ipynb), [phase_6/j_ph6_5.ipynb](phase_6/j_ph6_5.ipynb), [phase_6/j_ph6_6.ipynb](phase_6/j_ph6_6.ipynb), [phase_6/j_ph6_7.ipynb](phase_6/j_ph6_7.ipynb), [phase_6/j_ph6_8.ipynb](phase_6/j_ph6_8.ipynb), [phase_6/j_ph6_9.ipynb](phase_6/j_ph6_9.ipynb) |
-| Phase 7 | Collections | [phase_7/j_ph7.ipynb](phase_7/j_ph7.ipynb) |
-| Phase 7.1 | Collections practice | [phase_7.1/j_ph7.1_0.ipynb](phase_7.1/j_ph7.1_0.ipynb), [phase_7.1/j_ph7.1_1.ipynb](phase_7.1/j_ph7.1_1.ipynb), [phase_7.1/j_ph7.1_2.ipynb](phase_7.1/j_ph7.1_2.ipynb), [phase_7.1/j_ph7.1_3.ipynb](phase_7.1/j_ph7.1_3.ipynb) |
-| Phase 8 | Advanced topics | [phase_8/j_ph8_0.ipynb](phase_8/j_ph8_0.ipynb), [phase_8/j_ph8_1.ipynb](phase_8/j_ph8_1.ipynb), [phase_8/j_ph8_1a.ipynb](phase_8/j_ph8_1a.ipynb), [phase_8/j_ph8_1b.ipynb](phase_8/j_ph8_1b.ipynb), [phase_8/j_ph8_1c.ipynb](phase_8/j_ph8_1c.ipynb), [phase_8/j_ph8_2.ipynb](phase_8/j_ph8_2.ipynb), [phase_8/j_ph8_3.ipynb](phase_8/j_ph8_3.ipynb), [phase_8/j_ph8_4.ipynb](phase_8/j_ph8_4.ipynb), [phase_8/j_ph8_5.ipynb](phase_8/j_ph8_5.ipynb), [phase_8/j_ph8_6.ipynb](phase_8/j_ph8_6.ipynb), [phase_8/j_ph8_7.ipynb](phase_8/j_ph8_7.ipynb), [phase_8/j_ph8_7a .ipynb](phase_8/j_ph8_7a%20.ipynb), [phase_8/j_ph8_7b.ipynb](phase_8/j_ph8_7b.ipynb), [phase_8/j_ph8_7c.ipynb](phase_8/j_ph8_7c.ipynb), [phase_8/j_ph8_7d.ipynb](phase_8/j_ph8_7d.ipynb), [phase_8/j_ph8_7e.ipynb](phase_8/j_ph8_7e.ipynb) |
-| Phase 9 | Advanced practice | [phase_9/j_ph9.ipynb](phase_9/j_ph9.ipynb) |
-| Phase 10 | Advanced practice | [phase_10/j_ph10_0.ipynb](phase_10/j_ph10_0.ipynb), [phase_10/j_ph10_1.ipynb](phase_10/j_ph10_1.ipynb), [phase_10/j_ph10_2.ipynb](phase_10/j_ph10_2.ipynb), [phase_10/j_ph10_3.ipynb](phase_10/j_ph10_3.ipynb), [phase_10/j_ph10_4.ipynb](phase_10/j_ph10_4.ipynb) |
-| Phase 11 | Advanced practice | [phase_11/j_ph11_0.ipynb](phase_11/j_ph11_0.ipynb) |
-| Phase 12 | Advanced practice | [phase_12/j_ph12.ipynb](phase_12/j_ph12.ipynb) |
-| Phase 13 | Advanced practice | [phase_13/j_ph13.ipynb](phase_13/j_ph13.ipynb) |
+Start here: [j_roadmap.ipynb](j_roadmap.ipynb)
 
 ---
+
+## Complete Directory Index (with Links)
+
+| Directory | Focus | Files |
+| --- | --- | --- |
+| phase_0 | Mindset & Java execution basics | [phase_0/j_ph0.ipynb](phase_0/j_ph0.ipynb) |
+| phase_1 | Java fundamentals + practice | [phase_1/j_ph1.ipynb](phase_1/j_ph1.ipynb), [phase_1/Excercies.java](phase_1/Excercies.java), [phase_1/Hello.java](phase_1/Hello.java), [phase_1/Input.java](phase_1/Input.java) |
+| phase_2 | Control flow & logic building | [phase_2/j_ph2.ipynb](phase_2/j_ph2.ipynb) |
+| phase_3 | Methods & recursion | [phase_3/j_ph3.ipynb](phase_3/j_ph3.ipynb) |
+| phase_4 | Arrays | [phase_4/j_ph4.ipynb](phase_4/j_ph4.ipynb) |
+| phase_5 | Strings | [phase_5/j_ph5.ipynb](phase_5/j_ph5.ipynb) |
+| phase_6 | OOP breakdown | [phase_6/j_ph6_1.ipynb](phase_6/j_ph6_1.ipynb), [phase_6/j_ph6_2.ipynb](phase_6/j_ph6_2.ipynb), [phase_6/j_ph6_3.ipynb](phase_6/j_ph6_3.ipynb), [phase_6/j_ph6_4.ipynb](phase_6/j_ph6_4.ipynb), [phase_6/j_ph6_5.ipynb](phase_6/j_ph6_5.ipynb), [phase_6/j_ph6_6.ipynb](phase_6/j_ph6_6.ipynb), [phase_6/j_ph6_7.ipynb](phase_6/j_ph6_7.ipynb), [phase_6/j_ph6_8.ipynb](phase_6/j_ph6_8.ipynb), [phase_6/j_ph6_9.ipynb](phase_6/j_ph6_9.ipynb) |
+| phase_7 | Exception handling | [phase_7/j_ph7.ipynb](phase_7/j_ph7.ipynb) |
+| phase_7.1 | Memory & keywords | [phase_7.1/j_ph7.1_0.ipynb](phase_7.1/j_ph7.1_0.ipynb), [phase_7.1/j_ph7.1_1.ipynb](phase_7.1/j_ph7.1_1.ipynb), [phase_7.1/j_ph7.1_2.ipynb](phase_7.1/j_ph7.1_2.ipynb), [phase_7.1/j_ph7.1_3.ipynb](phase_7.1/j_ph7.1_3.ipynb) |
+| phase_8 | Collections framework | [phase_8/j_ph8_0.ipynb](phase_8/j_ph8_0.ipynb), [phase_8/j_ph8_1.ipynb](phase_8/j_ph8_1.ipynb), [phase_8/j_ph8_1a.ipynb](phase_8/j_ph8_1a.ipynb), [phase_8/j_ph8_1b.ipynb](phase_8/j_ph8_1b.ipynb), [phase_8/j_ph8_1c.ipynb](phase_8/j_ph8_1c.ipynb), [phase_8/j_ph8_2.ipynb](phase_8/j_ph8_2.ipynb), [phase_8/j_ph8_3.ipynb](phase_8/j_ph8_3.ipynb), [phase_8/j_ph8_4.ipynb](phase_8/j_ph8_4.ipynb), [phase_8/j_ph8_5.ipynb](phase_8/j_ph8_5.ipynb), [phase_8/j_ph8_6.ipynb](phase_8/j_ph8_6.ipynb), [phase_8/j_ph8_7.ipynb](phase_8/j_ph8_7.ipynb), [phase_8/j_ph8_7a .ipynb](phase_8/j_ph8_7a%20.ipynb), [phase_8/j_ph8_7b.ipynb](phase_8/j_ph8_7b.ipynb), [phase_8/j_ph8_7c.ipynb](phase_8/j_ph8_7c.ipynb), [phase_8/j_ph8_7d.ipynb](phase_8/j_ph8_7d.ipynb), [phase_8/j_ph8_7e.ipynb](phase_8/j_ph8_7e.ipynb) |
+| phase_9 | Generics & sorting | [phase_9/j_ph9.ipynb](phase_9/j_ph9.ipynb) |
+| phase_10 | Java 8+ features | [phase_10/j_ph10_0.ipynb](phase_10/j_ph10_0.ipynb), [phase_10/j_ph10_1.ipynb](phase_10/j_ph10_1.ipynb), [phase_10/j_ph10_2.ipynb](phase_10/j_ph10_2.ipynb), [phase_10/j_ph10_3.ipynb](phase_10/j_ph10_3.ipynb), [phase_10/j_ph10_4.ipynb](phase_10/j_ph10_4.ipynb) |
+| phase_11 | Multithreading | [phase_11/j_ph11_0.ipynb](phase_11/j_ph11_0.ipynb) |
+| phase_12 | JVM memory & performance | [phase_12/j_ph12.ipynb](phase_12/j_ph12.ipynb) |
+| phase_13 | Java for DSA readiness | [phase_13/j_ph13.ipynb](phase_13/j_ph13.ipynb) |
+
+---
+
+## Detailed Notebook Map (Read Every Phase in Order)
+
+### Roadmap
+
+* [j_roadmap.ipynb](j_roadmap.ipynb): Full course outline with all phases and subtopics.
+
+### Phase 0 — Mindset & Execution Basics
+
+* [phase_0/j_ph0.ipynb](phase_0/j_ph0.ipynb)
+  * JVM / JRE / JDK basics
+  * Java execution flow and bytecode
+  * Platform independence
+  * `main()` method reasoning
+
+### Phase 1 — Java Fundamentals
+
+* [phase_1/j_ph1.ipynb](phase_1/j_ph1.ipynb)
+  * Program structure, keywords, identifiers
+  * Primitive types, casting, wrapper intro
+  * Variables, operators, and input
+
+#### Practice Files
+
+* [phase_1/Hello.java](phase_1/Hello.java): Minimal `main()` and output
+* [phase_1/Input.java](phase_1/Input.java): Scanner-based input example (price input)
+* [phase_1/Excercies.java](phase_1/Excercies.java): Swapping, ASCII conversion, and exercise placeholders
+
+### Phase 2 — Control Flow & Logic Building
+
+* [phase_2/j_ph2.ipynb](phase_2/j_ph2.ipynb)
+  * Conditional statements and switch
+  * Loops and nested loop logic
+
+### Phase 3 — Methods & Recursion
+
+* [phase_3/j_ph3.ipynb](phase_3/j_ph3.ipynb)
+  * Method definition and overloading
+  * Parameters vs arguments
+  * Recursion basics and stack behavior
+
+### Phase 4 — Arrays (DSA Backbone)
+
+* [phase_4/j_ph4.ipynb](phase_4/j_ph4.ipynb)
+  * 1D and 2D arrays
+  * Traversal and indexing patterns
+
+### Phase 5 — Strings (Interview Dominator)
+
+* [phase_5/j_ph5.ipynb](phase_5/j_ph5.ipynb)
+  * String immutability and pool
+  * Comparison traps and core methods
+  * StringBuilder vs StringBuffer
+
+### Phase 6 — OOP Deep Dive
+
+* [phase_6/j_ph6_1.ipynb](phase_6/j_ph6_1.ipynb): OOP roadmap and class/object foundation
+* [phase_6/j_ph6_2.ipynb](phase_6/j_ph6_2.ipynb): Constructors (default, parameterized, overloading)
+* [phase_6/j_ph6_3.ipynb](phase_6/j_ph6_3.ipynb): Constructors continuation
+* [phase_6/j_ph6_4.ipynb](phase_6/j_ph6_4.ipynb): Inheritance + `super`
+* [phase_6/j_ph6_5.ipynb](phase_6/j_ph6_5.ipynb): Polymorphism + override patterns
+* [phase_6/j_ph6_6.ipynb](phase_6/j_ph6_6.ipynb): Abstraction, abstract class, interfaces
+* [phase_6/j_ph6_7.ipynb](phase_6/j_ph6_7.ipynb): `static`, `final`, and keyword traps
+* [phase_6/j_ph6_8.ipynb](phase_6/j_ph6_8.ipynb): `Object` class, `equals`, `hashCode`, `toString`
+* [phase_6/j_ph6_9.ipynb](phase_6/j_ph6_9.ipynb): Design-level OOP interview thinking
+
+### Phase 7 — Exception Handling
+
+* [phase_7/j_ph7.ipynb](phase_7/j_ph7.ipynb)
+  * Exception hierarchy
+  * Checked vs unchecked
+  * `try`, `catch`, `finally`
+
+### Phase 7.1 — Memory & Keywords (Interview Heavy)
+
+* [phase_7.1/j_ph7.1_0.ipynb](phase_7.1/j_ph7.1_0.ipynb): Memory + keyword roadmap
+* [phase_7.1/j_ph7.1_1.ipynb](phase_7.1/j_ph7.1_1.ipynb): Deep dive on `static`
+* [phase_7.1/j_ph7.1_2.ipynb](phase_7.1/j_ph7.1_2.ipynb): Stack vs heap (JVM memory)
+* [phase_7.1/j_ph7.1_3.ipynb](phase_7.1/j_ph7.1_3.ipynb): Object lifecycle
+
+### Phase 8 — Collections Framework
+
+* [phase_8/j_ph8_0.ipynb](phase_8/j_ph8_0.ipynb): Collections breakdown plan
+* [phase_8/j_ph8_1.ipynb](phase_8/j_ph8_1.ipynb): List interface
+* [phase_8/j_ph8_1a.ipynb](phase_8/j_ph8_1a.ipynb): ArrayList deep dive
+* [phase_8/j_ph8_1b.ipynb](phase_8/j_ph8_1b.ipynb): ArrayList exercises
+* [phase_8/j_ph8_1c.ipynb](phase_8/j_ph8_1c.ipynb): LinkedList deep dive
+* [phase_8/j_ph8_2.ipynb](phase_8/j_ph8_2.ipynb): Set interface
+* [phase_8/j_ph8_3.ipynb](phase_8/j_ph8_3.ipynb): Queue & Deque
+* [phase_8/j_ph8_4.ipynb](phase_8/j_ph8_4.ipynb): Map interface
+* [phase_8/j_ph8_5.ipynb](phase_8/j_ph8_5.ipynb): Iterators & Collections utilities
+* [phase_8/j_ph8_6.ipynb](phase_8/j_ph8_6.ipynb): Interview patterns and traps
+* [phase_8/j_ph8_7.ipynb](phase_8/j_ph8_7.ipynb): Conversion roadmap
+* [phase_8/j_ph8_7a .ipynb](phase_8/j_ph8_7a%20.ipynb): Array ↔ ArrayList conversions
+* [phase_8/j_ph8_7b.ipynb](phase_8/j_ph8_7b.ipynb): ArrayList ↔ Set conversions
+* [phase_8/j_ph8_7c.ipynb](phase_8/j_ph8_7c.ipynb): String ↔ array/list conversions
+* [phase_8/j_ph8_7d.ipynb](phase_8/j_ph8_7d.ipynb): Map conversions and sorting
+* [phase_8/j_ph8_7e.ipynb](phase_8/j_ph8_7e.ipynb): Mixed conversion patterns & traps
+
+### Phase 9 — Generics & Sorting
+
+* [phase_9/j_ph9.ipynb](phase_9/j_ph9.ipynb)
+  * Generics foundation
+  * Comparable vs Comparator
+
+### Phase 10 — Java 8+ Features
+
+* [phase_10/j_ph10_0.ipynb](phase_10/j_ph10_0.ipynb): Why Java 8, paradigm shift
+* [phase_10/j_ph10_1.ipynb](phase_10/j_ph10_1.ipynb): Lambda expressions
+* [phase_10/j_ph10_2.ipynb](phase_10/j_ph10_2.ipynb): Method references
+* [phase_10/j_ph10_3.ipynb](phase_10/j_ph10_3.ipynb): Streams core operations
+* [phase_10/j_ph10_4.ipynb](phase_10/j_ph10_4.ipynb): Optional and null safety
+
+### Phase 11 — Multithreading
+
+* [phase_11/j_ph11_0.ipynb](phase_11/j_ph11_0.ipynb)
+  * Process vs thread
+  * Thread creation & lifecycle
+  * `sleep()` and `join()`
+
+### Phase 12 — JVM Memory & Performance
+
+* [phase_12/j_ph12.ipynb](phase_12/j_ph12.ipynb)
+  * Heap generations and GC types
+  * JVM memory pitfalls and interview framing
+
+### Phase 13 — Java for DSA Readiness
+
+* [phase_13/j_ph13.ipynb](phase_13/j_ph13.ipynb)
+  * Fast I/O patterns
+  * Recursion limits and TLE avoidance
+  * Comparator pitfalls in coding rounds
+
+---
+
+## How to Run Java Practice Files
+
+From the repository root:
+
+1. Compile: `javac phase_1/Hello.java`
+2. Run: `java Hello`
+
+If you see package issues, ensure the file has **no package declaration** (current practice files do not declare packages).
+
+---
+
+## Notes
+
+* Compiled `.class` files are ignored via [.gitignore](.gitignore)
+* All notebooks are structured for **interview readiness** and **DSA transition**
+
 
 ## PHASE 0 – Mindset & Setup (Quick but Important)
 
